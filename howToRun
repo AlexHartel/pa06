@@ -1,0 +1,2 @@
+gcc -pthread -o pa06 pa06.c -lm
+./pa06 -N 10 -M 4
