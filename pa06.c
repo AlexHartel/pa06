@@ -1,133 +1,170 @@
-/*
-  Not sure what this means in the random437.h file provided for the class
-  #ifndef random437_h
-  #define random437_h
-*/
-
-#include <stdio.h> /* Used in random437.h file */
-#include <stdlib.h> /* Used in random437.h file */
+#include <stdio.h>
+#include <stdlib.h>
 #include <unistd.h>
 #include <getopt.h>
-#include <math.h> /* Used in random437.h file */
-#include <semaphore.h>
+#include <math.h>
 #include <pthread.h>
-
-
 
 #define MAXWAITPEOPLE 800
 
-/*
-  Add
-*/
+// Function declarations
+double U_Random();
+int poissonRandom(int meanArrival);
 
-#define MAX_TIME 600
-#define MAX_THREADS 10
+// Structure to hold data for each Explorer car
+typedef struct
+{
+    pthread_t thread;
+    int passengers;
+} ExplorerCar;
 
+// Global variables
+int CARNUM = 10;       // Default value
+int MAXPERCAR = 4;      // Default value
+int totalPeopleArrived = 0;
+int totalPeopleRiding = 0;
+int totalPeopleRejected = 0;
+double totalWaitingTime = 0;
+pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 
-sem_t ad_waitingLineMutex;
-sem_t ad_carMutex;
-sem_t ad_arrivalMutex;
+// Function to simulate the waiting area
+void *waitingAreaSimulation(void *arg)
+{
+    int currentTime = 0;
+    int peopleInLine = 0;
 
-int ad_waitingLine = 0;
-int ad_totalArrivals = 0;
-int ad_totalRideTakers = 0;
-int ad_totalRejected = 0;
+    // Loop through the simulation time
+    while (currentTime < 600)
+    {
+        // Calculate mean arrival based on the specified time intervals
+        int meanArrival;
+        if (currentTime >= 0 && currentTime < 180)
+            meanArrival = 25;
+        else if (currentTime >= 180 && currentTime < 420)
+            meanArrival = 45;
+        else if (currentTime >= 420 && currentTime < 540)
+            meanArrival = 35;
+        else
+            meanArrival = 25;
 
-int CARNUM; // Number of Explorer cars
+        // Generate the number of people arriving this minute using Poisson distribution
+        int arrivingPeople = poissonRandom(meanArrival);
 
-void *adWaitingLineThread(void *arg) {
-    for(int t = 0; t < MAX_TIME; ++t) {
-        sem_wait(&ad_waitingLineMutex);
-        printf("%d arrive ", t);
-        
-        //simulate the arrival with using the poissonRandom function
-        int ad_arrivals = poissonRandom(getMeanArrival(t));
-        ad_totalArrivals += ad_arrivals;
-     
-        //check if the line's waiting space exists
-        int ad_spaceAvailable = MAXWAITPEOPLE - ad_waitingLine;
-    
-        if(ad_arrivals <= ad_spaceAvailable) {
-            ad_waitingLine += ad_arrivals;
-            printf("%d reject 0 wait-line %d at %02d:%02d:%02d\n", ad_arrivals, ad_waitingLine, t/60, t%60,0);
-        } else {
-            int ad_rejected = ad_arrivals - ad_spaceAvailable;
-    	    ad_totalRejected += ad_rejected;
-    	    ad_waitingLine = MAXWAITPEOPLE;
-    	    printf("%d rejected %d wait-line %d at %02d:%02d:%02d\n", ad_arrivals, ad_rejected, ad_waitingLine, t/60, t%60,0);
+        // Check if the waiting area is full
+        if (peopleInLine + arrivingPeople > MAXWAITPEOPLE)
+        {
+            int rejected = arrivingPeople - (MAXWAITPEOPLE - peopleInLine);
+            arrivingPeople = MAXWAITPEOPLE - peopleInLine;
+            totalPeopleRejected += rejected;
         }
-    
-        sem_post(&ad_waitingLineMutex);
-        //  Simulate the 1 second per virtual minute
+
+        // Update the total number of people arrived
+        totalPeopleArrived += arrivingPeople;
+
+        // Synchronize threads
+        pthread_mutex_lock(&mutex);
+
+        // Simulate accepting people into the waiting line
+        if (arrivingPeople > 0)
+        {
+            // Assuming a simple scenario where everyone is accepted into the waiting line
+            peopleInLine += arrivingPeople;
+
+            // Log the status
+            printf("%03d arrive %03d reject %03d wait-line %03d at %02d:%02d:%02d\n",
+                   currentTime, arrivingPeople, totalPeopleRejected, peopleInLine,
+                   currentTime / 60, currentTime % 60, 0);
+        }
+
+        // Synchronize threads
+        pthread_mutex_unlock(&mutex);
+
+        // Sleep for one virtual second (you may adjust this based on your requirements)
         sleep(1);
+
+        // Increment the current time
+        currentTime++;
     }
-    
-    pthread_exit(NULL);
+
+    // Calculate and update the average waiting time
+    if (totalPeopleRiding > 0)
+        totalWaitingTime /= totalPeopleRiding;
+
+    // Display the summary at the end of the day
+    printf("Total People Arrived: %d\n", totalPeopleArrived);
+    printf("Total People Riding: %d\n", totalPeopleRiding);
+    printf("Total People Rejected: %d\n", totalPeopleRejected);
+    printf("Average Waiting Time per Person: %.2f minutes\n", totalWaitingTime);
+
+    return NULL;
 }
 
-void *ad_explorerCarThread(void *arg) {
-    for (int t = 0; t < MAX_TIME; ++t) {
-        sem_wait(&ad_carMutex);
-        //Explorer Car Logic
-        
-        sem_post($ad_carMutex);
-        sleep(1); //
-    //  Implement ford car thread
-    //  Make sure to synchronize access to shared resources
-    
-    pthread_exit(NULL);
-}
+// Function to simulate the Explorer cars
+void *explorerCarSimulation(void *arg)
+{
+    ExplorerCar *car = (ExplorerCar *)arg;
+    int currentTime = 0;
 
-void *ad_arrivalModuleThread(void *arg) {
-    //  Implement arrival module thread
-    //  Make sure to synchronize access to shared resources
-    pthread_exit(NULL);
-}
+    // Loop through the simulation time
+    while (currentTime < 600)
+    {
+        // Synchronize threads
+        pthread_mutex_lock(&mutex);
 
-int main(int argc, char *argv[]) {
-    //  Parse command line arguments
-    //set MAXPERCAR and CARNUM based on arguments
-    
-    //Init semaphores
-    sem_init(&ad_waitingLineMutex, 0, 1);
-    sem_init(&ad_carMutex, 0, 1);
-    sem_init(&ad_arrivalMutex, 0, 1);
-    
-    //create threads
-    pthread_t ad_waitingLineThread, ad_explorerCarThreads[MAX_THREADS], arrivalModuleThread;
-    
-    pthread_create(&ad_waitingLineThread, NULL, ad_waitingLineThread, NULL);
-    for(int i = 0; i < CARNUM; ++i) {
-        pthread_create(&ad_explorerCarThreads[i], NULL, ad_explorerCarThread, NULL);
+        // Simulate the ride completion
+        if (car->passengers > 0)
+        {
+            // Assuming a simple scenario where everyone in the car completes the ride
+            totalPeopleRiding += car->passengers;
+
+            // Log the status
+            printf("Explorer %p departs with %d passengers at %02d:%02d:%02d\n",
+                   (void *)car->thread, car->passengers, currentTime / 60, currentTime % 60, 0);
+
+            // Reset the number of passengers for the next ride
+            car->passengers = 0;
+        }
+
+        // Synchronize threads
+        pthread_mutex_unlock(&mutex);
+
+        // Sleep for one virtual second (you may adjust this based on your requirements)
+        sleep(1);
+
+        // Increment the current time
+        currentTime++;
     }
-    pthread_create(&ad_arrivalModuleThread, NULL, ad_arrivalModuleThread, NULL);
-    
-    //join the threads
-    pthread_join(ad_waitingLineThread, NULL);
-    for( int i = 0; i < CARNUM; ++i) {
-        pthread_join(ad_explorerCarThreads[i], NULL);
-    }
-    pthread_join(ad_arrivalModuleThread, NULL);
-    
-    //ouput statistics
-    
-    //Destroy semaphores
-    sem_destroy(&ad_waitingLineMutex);
-    sem_destroy(&ad_carMutex);
-    sem_destroy(&ad_arrivalMutex);
-    
-    return 0;
+
+    return NULL;
 }
 
-double U_Random(); /*Part of random437.h */
-int poissonRandom(); /*Part of random437.h */
+// Poisson random number generation
+int poissonRandom(int meanArrival)
+{
+    int k = 0;
+    long double p = 1.0;
+    long double l = exp(-meanArrival);
+    double u = U_Random();
+    double F = l;
+
+    while (u >= F)
+    {
+        k++;
+        l *= (double)meanArrival / k;
+        F += l;
+    }
+
+    return k;
+}
+
+// Uniform random number generation
+double U_Random()
+{
+    return (double)rand() / RAND_MAX;
+}
 
 int main(int argc, char *argv[])
 {
-    int CARNUM = 10;       // Default value
-    int MAXPERCAR = 4;      // Default value
-
-    // Command line options
     int opt;
     while ((opt = getopt(argc, argv, "N:M:")) != -1)
     {
@@ -154,38 +191,44 @@ int main(int argc, char *argv[])
 
     printf("N:%d, M: %d\n", CARNUM, MAXPERCAR);
 
-    return 0;
-}
-
-
-/*
-  
-  Part of random437.h 
-  function: called poissonRandom
-  Input: is meanArrival
-  Output: k..?
-  
-  
-  */
-int poissonRandom(int meanArrival)
-{
-    int k = 0;
-    long double p = 1.0;
-    long double l = exp(-meanArrival);
-    double u = U_Random();
-    double F = l;
-
-    while (u >= F)
+    // Initialize the Explorer cars
+    ExplorerCar cars[CARNUM];
+    for (int i = 0; i < CARNUM; i++)
     {
-        k++;
-        l *= (double)meanArrival / k;
-        F += l;
+        cars[i].passengers = 0;
+
+        // Create a new thread for each Explorer car
+        if (pthread_create(&cars[i].thread, NULL, explorerCarSimulation, &cars[i]) != 0)
+        {
+            perror("Error creating thread");
+            exit(EXIT_FAILURE);
+        }
     }
 
-    return k;
-}
+    // Create the waiting area thread
+    pthread_t waitingAreaThread;
+    if (pthread_create(&waitingAreaThread, NULL, waitingAreaSimulation, NULL) != 0)
+    {
+        perror("Error creating thread");
+        exit(EXIT_FAILURE);
+    }
 
-double U_Random()
-{
-    return (double)rand() / RAND_MAX;
+    // Join waiting area thread
+    if (pthread_join(waitingAreaThread, NULL) != 0)
+    {
+        perror("Error joining thread");
+        exit(EXIT_FAILURE);
+    }
+
+    // Join Explorer car threads
+    for (int i = 0; i < CARNUM; i++)
+    {
+        if (pthread_join(cars[i].thread, NULL) != 0)
+        {
+            perror("Error joining thread");
+            exit(EXIT_FAILURE);
+        }
+    }
+
+    return 0;
 }
