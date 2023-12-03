@@ -6,6 +6,7 @@
 #include <pthread.h>
 
 #define MAXWAITPEOPLE 800
+#define OUTPUT_FILE_NAME "simulation_output.txt"
 
 // Function declarations
 double U_Random();
@@ -26,12 +27,12 @@ int totalPeopleRiding = 0;
 int totalPeopleRejected = 0;
 double totalWaitingTime = 0;
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+int peopleInLine = 0;
 
 // Function to simulate the waiting area
 void *waitingAreaSimulation(void *arg)
 {
     int currentTime = 0;
-    int peopleInLine = 0;
 
     // Loop through the simulation time
     while (currentTime < 600)
@@ -76,11 +77,14 @@ void *waitingAreaSimulation(void *arg)
                    currentTime / 60, currentTime % 60, 0);
         }
 
+        // Calculate waiting time for people in line
+        totalWaitingTime += peopleInLine;
+
         // Synchronize threads
         pthread_mutex_unlock(&mutex);
 
         // Sleep for one virtual second (you may adjust this based on your requirements)
-        sleep(1);
+        sleep(.01);
 
         // Increment the current time
         currentTime++;
@@ -114,22 +118,37 @@ void *explorerCarSimulation(void *arg)
         // Simulate the ride completion
         if (car->passengers > 0)
         {
-            // Assuming a simple scenario where everyone in the car completes the ride
-            totalPeopleRiding += car->passengers;
-
             // Log the status
             printf("Explorer %p departs with %d passengers at %02d:%02d:%02d\n",
                    (void *)car->thread, car->passengers, currentTime / 60, currentTime % 60, 0);
 
+            // Update the total number of people riding
+            totalPeopleRiding += car->passengers;
+
             // Reset the number of passengers for the next ride
             car->passengers = 0;
+        }
+
+        // Check if there are people in the waiting line
+        if (peopleInLine > 0)
+        {
+            // Pick people from the waiting line up to the maximum per car
+            int passengersToPick = (peopleInLine < MAXPERCAR) ? peopleInLine : MAXPERCAR;
+            car->passengers = passengersToPick;
+
+            // Update the waiting line count
+            peopleInLine -= passengersToPick;
+
+            // Log the status
+            printf("Explorer %p arrives with %d passengers at %02d:%02d:%02d\n",
+                   (void *)car->thread, car->passengers, currentTime / 60, currentTime % 60, 0);
         }
 
         // Synchronize threads
         pthread_mutex_unlock(&mutex);
 
         // Sleep for one virtual second (you may adjust this based on your requirements)
-        sleep(1);
+        sleep(.01);
 
         // Increment the current time
         currentTime++;
@@ -182,12 +201,28 @@ int main(int argc, char *argv[])
         }
     }
 
-    // Validate command line arguments
+        // Validate command line arguments
     if (CARNUM <= 0 || MAXPERCAR <= 0)
     {
         fprintf(stderr, "Invalid values for CARNUM or MAXPERCAR.\n");
         exit(EXIT_FAILURE);
     }
+    
+    // Open the output file for writing (use absolute path)
+    FILE *outputFile = fopen(OUTPUT_FILE_NAME, "w");
+    if (outputFile == NULL)
+    {
+        perror("Error opening output file");
+        exit(EXIT_FAILURE);
+    }
+
+    // Redirect standard output to the output file
+    if (dup2(fileno(outputFile), STDOUT_FILENO) == -1)
+    {
+        perror("Error redirecting standard output");
+        exit(EXIT_FAILURE);
+    }
+
 
     printf("N:%d, M: %d\n", CARNUM, MAXPERCAR);
 
@@ -207,7 +242,8 @@ int main(int argc, char *argv[])
 
     // Create the waiting area thread
     pthread_t waitingAreaThread;
-    if (pthread_create(&waitingAreaThread, NULL, waitingAreaSimulation, NULL) != 0)
+    if (pthread_create(&waitingAreaThread
+, NULL, waitingAreaSimulation, NULL) != 0)
     {
         perror("Error creating thread");
         exit(EXIT_FAILURE);
@@ -229,6 +265,16 @@ int main(int argc, char *argv[])
             exit(EXIT_FAILURE);
         }
     }
+    
+    // Close the original file descriptor
+    fclose(outputFile);
 
+    // Generate graphs using Python script
+    int sysCallResult = system("python3 plotting_script.py");
+    if (sysCallResult == -1)
+    {
+        perror("Error calling Python script");
+        exit(EXIT_FAILURE);
+    }
     return 0;
 }
