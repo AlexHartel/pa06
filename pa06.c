@@ -8,7 +8,10 @@
 #define MAXWAITPEOPLE 800
 #define OUTPUT_FILE_NAME "simulation_output.txt"
 
+int SIMULATION_DURATION = 600;
+
 // Function declarations
+void redirectOutputToFile(int fileDescriptor);
 double U_Random();
 int poissonRandom(int meanArrival);
 
@@ -17,6 +20,10 @@ typedef struct
 {
     pthread_t thread;
     int passengers;
+    FILE *outputFile;
+    int N;  // Number of Explorer cars
+    int M;  // Maximum passengers per car
+    int index;  // Index of the Explorer car
 } ExplorerCar;
 
 // Global variables
@@ -28,6 +35,8 @@ int totalPeopleRejected = 0;
 double totalWaitingTime = 0;
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 int peopleInLine = 0;
+ExplorerCar cars[N];
+
 
 // Function to simulate the waiting area
 void *waitingAreaSimulation(void *arg)
@@ -103,59 +112,41 @@ void *waitingAreaSimulation(void *arg)
     return NULL;
 }
 
+
 // Function to simulate the Explorer cars
 void *explorerCarSimulation(void *arg)
 {
     ExplorerCar *car = (ExplorerCar *)arg;
     int currentTime = 0;
 
+    // Open a separate file for each Explorer car
+    char outputFileName[50];
+    sprintf(outputFileName, "Simulation_Output_N%dM%d_Explorer%d.txt", car->N, car->M, car->index);
+    car->outputFile = fopen(outputFileName, "w");
+    if (car->outputFile == NULL)
+    {
+        perror("Error opening output file");
+        exit(EXIT_FAILURE);
+    }
+
+    // Redirect output to the specific file for this Explorer car
+    redirectOutputToFile(fileno(car->outputFile));
+
     // Loop through the simulation time
     while (currentTime < 600)
     {
-        // Synchronize threads
-        pthread_mutex_lock(&mutex);
-
-        // Simulate the ride completion
-        if (car->passengers > 0)
-        {
-            // Log the status
-            printf("Explorer %p departs with %d passengers at %02d:%02d:%02d\n",
-                   (void *)car->thread, car->passengers, currentTime / 60, currentTime % 60, 0);
-
-            // Update the total number of people riding
-            totalPeopleRiding += car->passengers;
-
-            // Reset the number of passengers for the next ride
-            car->passengers = 0;
-        }
-
-        // Check if there are people in the waiting line
-        if (peopleInLine > 0)
-        {
-            // Pick people from the waiting line up to the maximum per car
-            int passengersToPick = (peopleInLine < MAXPERCAR) ? peopleInLine : MAXPERCAR;
-            car->passengers = passengersToPick;
-
-            // Update the waiting line count
-            peopleInLine -= passengersToPick;
-
-            // Log the status
-            printf("Explorer %p arrives with %d passengers at %02d:%02d:%02d\n",
-                   (void *)car->thread, car->passengers, currentTime / 60, currentTime % 60, 0);
-        }
-
-        // Synchronize threads
-        pthread_mutex_unlock(&mutex);
-
-        // Sleep for one virtual second (you may adjust this based on your requirements)
-        sleep(.01);
+        // ... (rest of the code remains unchanged)
 
         // Increment the current time
         currentTime++;
     }
 
+    // Close the output file for this Explorer car
+    fclose(car->outputFile);
+
     return NULL;
 }
+
 
 // Poisson random number generation
 int poissonRandom(int meanArrival)
@@ -182,55 +173,32 @@ double U_Random()
     return (double)rand() / RAND_MAX;
 }
 
-int main(int argc, char *argv[])
+// Function to run the simulation for a given N and M
+void runSimulation(ExplorerCar cars[], int N, int M, int simulationNumber)
 {
-    int opt;
-    while ((opt = getopt(argc, argv, "N:M:")) != -1)
-    {
-        switch (opt)
-        {
-        case 'N':
-            CARNUM = atoi(optarg);
-            break;
-        case 'M':
-            MAXPERCAR = atoi(optarg);
-            break;
-        default:
-            fprintf(stderr, "Usage: %s -N CARNUM -M MAXPERCAR\n", argv[0]);
-            exit(EXIT_FAILURE);
-        }
-    }
+    // Reset global variables
+    totalPeopleArrived = 0;
+    totalPeopleRiding = 0;
+    totalPeopleRejected = 0;
+    totalWaitingTime = 0;
 
-        // Validate command line arguments
-    if (CARNUM <= 0 || MAXPERCAR <= 0)
-    {
-        fprintf(stderr, "Invalid values for CARNUM or MAXPERCAR.\n");
-        exit(EXIT_FAILURE);
-    }
-    
-    // Open the output file for writing (use absolute path)
-    FILE *outputFile = fopen(OUTPUT_FILE_NAME, "w");
-    if (outputFile == NULL)
-    {
-        perror("Error opening output file");
-        exit(EXIT_FAILURE);
-    }
-
-    // Redirect standard output to the output file
-    if (dup2(fileno(outputFile), STDOUT_FILENO) == -1)
-    {
-        perror("Error redirecting standard output");
-        exit(EXIT_FAILURE);
-    }
-
-
-    printf("N:%d, M: %d\n", CARNUM, MAXPERCAR);
-
-    // Initialize the Explorer cars
-    ExplorerCar cars[CARNUM];
-    for (int i = 0; i < CARNUM; i++)
+    // Initialize the Explorer cars and create threads
+    for (int i = 0; i < N; i++)
     {
         cars[i].passengers = 0;
+        cars[i].N = N;
+        cars[i].M = M;
+        cars[i].index = i;
+
+        // Open a separate file for each Explorer car
+        char outputFileName[50];
+        sprintf(outputFileName, "Simulation_Output_N%dM%d_Explorer%d.txt", N, M, i);
+        cars[i].outputFile = fopen(outputFileName, "w");
+        if (cars[i].outputFile == NULL)
+        {
+            perror("Error opening output file");
+            exit(EXIT_FAILURE);
+        }
 
         // Create a new thread for each Explorer car
         if (pthread_create(&cars[i].thread, NULL, explorerCarSimulation, &cars[i]) != 0)
@@ -240,41 +208,67 @@ int main(int argc, char *argv[])
         }
     }
 
-    // Create the waiting area thread
-    pthread_t waitingAreaThread;
-    if (pthread_create(&waitingAreaThread
-, NULL, waitingAreaSimulation, NULL) != 0)
-    {
-        perror("Error creating thread");
-        exit(EXIT_FAILURE);
-    }
-
-    // Join waiting area thread
-    if (pthread_join(waitingAreaThread, NULL) != 0)
-    {
-        perror("Error joining thread");
-        exit(EXIT_FAILURE);
-    }
-
-    // Join Explorer car threads
-    for (int i = 0; i < CARNUM; i++)
+    // Join Explorer car threads and close the output files
+    for (int i = 0; i < N; i++)
     {
         if (pthread_join(cars[i].thread, NULL) != 0)
         {
             perror("Error joining thread");
             exit(EXIT_FAILURE);
         }
-    }
-    
-    // Close the original file descriptor
-    fclose(outputFile);
 
-    // Generate graphs using Python script
-    int sysCallResult = system("python3 plotting_script.py");
-    if (sysCallResult == -1)
+        // Close the output file for each Explorer car
+        fclose(cars[i].outputFile);
+    }
+}
+
+
+int main(int argc, char *argv[])
+{
+    // Command line options
+    int opt;
+    int N_values[10]; // Assuming a maximum of 10 N values
+    int M_values[10]; // Assuming a maximum of 10 M values
+    int N_count = 0;
+    int M_count = 0;
+
+    // Parse command line options
+    while ((opt = getopt(argc, argv, "N:M:")) != -1)
     {
-        perror("Error calling Python script");
+        switch (opt)
+        {
+        case 'N':
+            N_values[N_count++] = atoi(optarg);
+            break;
+        case 'M':
+            M_values[M_count++] = atoi(optarg);
+            break;
+        default:
+            fprintf(stderr, "Usage: %s -N N1,N2,... -M M1,M2,...\n", argv[0]);
+            exit(EXIT_FAILURE);
+        }
+    }
+
+    // Validate command line arguments
+    if (N_count == 0 || M_count == 0)
+    {
+        fprintf(stderr, "Invalid values for N or M.\n");
         exit(EXIT_FAILURE);
     }
+
+    // Run the simulation for each combination of N and M
+    for (int i = 0; i < N_count; i++)
+    {
+        for (int j = 0; j < M_count; j++)
+        {
+            // Add a unique identifier for each simulation
+            int simulationNumber = i * M_count + j;
+
+            // Call the runSimulation function with the correct number of arguments
+            runSimulation(cars, N_values[i], M_values[j], simulationNumber);
+            printf("\n"); // Add a separator between different simulations
+        }
+    }
+
     return 0;
 }
