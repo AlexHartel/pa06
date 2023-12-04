@@ -1,3 +1,4 @@
+
 import matplotlib.pyplot as plt
 import re
 import sys
@@ -19,16 +20,16 @@ def parse_simulation_output(lines):
             minute, arrived, rejected, in_line, hour, _, _ = map(int, match.groups())
             arrivals.append((minute, arrived))
 
-            if hour == 9:
+            if hour >= 0 and hour <= 1:
                 rejections['09'].append((minute, rejected))
                 waiting['09'].append((minute, in_line))
-            elif hour == 11:
+            elif hour >= 2 and hour <= 4:
                 rejections['11'].append((minute, rejected))
                 waiting['11'].append((minute, in_line))
-            elif hour == 14:
+            elif hour == 5 or hour == 6:
                 rejections['14'].append((minute, rejected))
                 waiting['14'].append((minute, in_line))
-            elif hour == 16:
+            elif hour >= 7:
                 rejections['16'].append((minute, rejected))
                 waiting['16'].append((minute, in_line))
 
@@ -51,7 +52,9 @@ def main():
     arrivals, rejections, waiting = parse_simulation_output(lines)
 
     # Plotting the curves
-    plot_curve(arrivals, 'Number of Persons Arrived', 'Minute', 'Persons', 'arrivals_curve.png')
+    #plot_curve(arrivals, 'Number of Persons Arrived', 'Minute', 'Persons', 'arrivals_curve.png')
+    #plot_curve(rejections, 'Number of Persons Rejected', 'Minute', 'Persons', 'rejections_curve.png')
+    #plot_curve(waiting, 'Number of Persons Waiting', 'Minute', 'Persons', 'waiting_curve.png')
     plot_curve(rejections['09'], 'Number of Persons Rejected (9:00 AM - 10:59 AM)', 'Minute', 'Persons', 'rejections_09_curve.png')
     plot_curve(rejections['11'], 'Number of Persons Rejected (11:00 AM - 1:59 PM)', 'Minute', 'Persons', 'rejections_11_curve.png')
     plot_curve(rejections['14'], 'Number of Persons Rejected (2:00 PM - 3:59 PM)', 'Minute', 'Persons', 'rejections_14_curve.png')
@@ -63,3 +66,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
