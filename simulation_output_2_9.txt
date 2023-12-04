@@ -1,0 +1,2979 @@
+N:2, M: 9
+000 arrive 030 reject 000 wait-line 030 at 00:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:02:00
+001 arrive 024 reject 000 wait-line 036 at 00:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:03:00
+002 arrive 029 reject 000 wait-line 047 at 00:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:04:00
+003 arrive 029 reject 000 wait-line 058 at 00:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:05:00
+004 arrive 032 reject 000 wait-line 072 at 00:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:06:00
+005 arrive 021 reject 000 wait-line 075 at 00:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:07:00
+006 arrive 023 reject 000 wait-line 080 at 00:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:08:00
+007 arrive 029 reject 000 wait-line 091 at 00:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:09:00
+008 arrive 022 reject 000 wait-line 095 at 00:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:10:00
+009 arrive 026 reject 000 wait-line 103 at 00:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:11:00
+010 arrive 025 reject 000 wait-line 110 at 00:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:12:00
+011 arrive 026 reject 000 wait-line 118 at 00:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:13:00
+012 arrive 023 reject 000 wait-line 123 at 00:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:14:00
+013 arrive 025 reject 000 wait-line 130 at 00:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:15:00
+014 arrive 034 reject 000 wait-line 146 at 00:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:16:00
+015 arrive 032 reject 000 wait-line 160 at 00:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:17:00
+016 arrive 027 reject 000 wait-line 169 at 00:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:18:00
+017 arrive 028 reject 000 wait-line 179 at 00:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:19:00
+018 arrive 020 reject 000 wait-line 181 at 00:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:20:00
+019 arrive 026 reject 000 wait-line 189 at 00:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:21:00
+020 arrive 015 reject 000 wait-line 186 at 00:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:22:00
+021 arrive 021 reject 000 wait-line 189 at 00:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:23:00
+022 arrive 020 reject 000 wait-line 191 at 00:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:24:00
+023 arrive 029 reject 000 wait-line 202 at 00:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:25:00
+024 arrive 020 reject 000 wait-line 204 at 00:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:26:00
+025 arrive 024 reject 000 wait-line 210 at 00:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:27:00
+026 arrive 019 reject 000 wait-line 211 at 00:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:28:00
+027 arrive 019 reject 000 wait-line 212 at 00:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:29:00
+028 arrive 042 reject 000 wait-line 227 at 00:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:30:00
+029 arrive 021 reject 000 wait-line 230 at 00:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:31:00
+030 arrive 025 reject 000 wait-line 237 at 00:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:32:00
+031 arrive 030 reject 000 wait-line 249 at 00:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:33:00
+032 arrive 026 reject 000 wait-line 257 at 00:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:34:00
+033 arrive 022 reject 000 wait-line 261 at 00:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:35:00
+034 arrive 027 reject 000 wait-line 270 at 00:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:36:00
+035 arrive 025 reject 000 wait-line 277 at 00:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:37:00
+036 arrive 025 reject 000 wait-line 284 at 00:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:38:00
+037 arrive 035 reject 000 wait-line 301 at 00:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:39:00
+038 arrive 022 reject 000 wait-line 305 at 00:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:40:00
+039 arrive 029 reject 000 wait-line 316 at 00:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:41:00
+040 arrive 025 reject 000 wait-line 323 at 00:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:42:00
+041 arrive 029 reject 000 wait-line 334 at 00:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:43:00
+042 arrive 024 reject 000 wait-line 340 at 00:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:44:00
+043 arrive 031 reject 000 wait-line 353 at 00:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:45:00
+044 arrive 022 reject 000 wait-line 357 at 00:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:46:00
+045 arrive 023 reject 000 wait-line 362 at 00:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:47:00
+046 arrive 029 reject 000 wait-line 373 at 00:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:48:00
+047 arrive 032 reject 000 wait-line 387 at 00:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:49:00
+048 arrive 018 reject 000 wait-line 387 at 00:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:50:00
+049 arrive 033 reject 000 wait-line 402 at 00:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:51:00
+050 arrive 025 reject 000 wait-line 409 at 00:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:52:00
+051 arrive 018 reject 000 wait-line 409 at 00:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:53:00
+052 arrive 021 reject 000 wait-line 412 at 00:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:54:00
+053 arrive 027 reject 000 wait-line 421 at 00:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:55:00
+054 arrive 031 reject 000 wait-line 434 at 00:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:56:00
+055 arrive 023 reject 000 wait-line 439 at 00:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:57:00
+056 arrive 018 reject 000 wait-line 439 at 00:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:58:00
+057 arrive 015 reject 000 wait-line 436 at 00:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 00:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 00:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 00:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 00:59:00
+058 arrive 024 reject 000 wait-line 442 at 00:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:00:00
+059 arrive 018 reject 000 wait-line 442 at 00:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:01:00
+060 arrive 021 reject 000 wait-line 445 at 01:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:03:00
+061 arrive 035 reject 000 wait-line 444 at 01:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:04:00
+062 arrive 032 reject 000 wait-line 458 at 01:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:05:00
+063 arrive 030 reject 000 wait-line 470 at 01:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:06:00
+064 arrive 022 reject 000 wait-line 474 at 01:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:07:00
+065 arrive 025 reject 000 wait-line 481 at 01:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:08:00
+066 arrive 023 reject 000 wait-line 486 at 01:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:09:00
+067 arrive 028 reject 000 wait-line 496 at 01:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:10:00
+068 arrive 025 reject 000 wait-line 503 at 01:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:11:00
+069 arrive 027 reject 000 wait-line 512 at 01:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:12:00
+070 arrive 025 reject 000 wait-line 519 at 01:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:13:00
+071 arrive 017 reject 000 wait-line 518 at 01:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:14:00
+072 arrive 024 reject 000 wait-line 524 at 01:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:15:00
+073 arrive 033 reject 000 wait-line 539 at 01:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:16:00
+074 arrive 033 reject 000 wait-line 554 at 01:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:17:00
+075 arrive 028 reject 000 wait-line 564 at 01:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:18:00
+076 arrive 022 reject 000 wait-line 568 at 01:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:19:00
+077 arrive 028 reject 000 wait-line 578 at 01:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:20:00
+078 arrive 027 reject 000 wait-line 587 at 01:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:21:00
+079 arrive 023 reject 000 wait-line 592 at 01:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:22:00
+080 arrive 027 reject 000 wait-line 601 at 01:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:23:00
+081 arrive 020 reject 000 wait-line 603 at 01:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:24:00
+082 arrive 024 reject 000 wait-line 609 at 01:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:25:00
+083 arrive 031 reject 000 wait-line 622 at 01:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:26:00
+084 arrive 030 reject 000 wait-line 634 at 01:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:27:00
+085 arrive 023 reject 000 wait-line 639 at 01:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:28:00
+086 arrive 021 reject 000 wait-line 642 at 01:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:29:00
+087 arrive 031 reject 000 wait-line 655 at 01:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:30:00
+088 arrive 023 reject 000 wait-line 660 at 01:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:31:00
+089 arrive 027 reject 000 wait-line 669 at 01:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:32:00
+090 arrive 034 reject 000 wait-line 685 at 01:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:33:00
+091 arrive 026 reject 000 wait-line 693 at 01:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:34:00
+092 arrive 027 reject 000 wait-line 702 at 01:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:35:00
+093 arrive 030 reject 000 wait-line 714 at 01:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:36:00
+094 arrive 024 reject 000 wait-line 720 at 01:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:37:00
+095 arrive 032 reject 000 wait-line 734 at 01:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:38:00
+096 arrive 024 reject 000 wait-line 740 at 01:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:39:00
+097 arrive 029 reject 000 wait-line 751 at 01:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:40:00
+098 arrive 027 reject 000 wait-line 760 at 01:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:41:00
+099 arrive 032 reject 000 wait-line 774 at 01:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:42:00
+100 arrive 025 reject 000 wait-line 781 at 01:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:43:00
+101 arrive 021 reject 000 wait-line 784 at 01:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:44:00
+102 arrive 034 reject 000 wait-line 800 at 01:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:45:00
+103 arrive 018 reject 014 wait-line 800 at 01:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:46:00
+104 arrive 018 reject 016 wait-line 800 at 01:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:47:00
+105 arrive 018 reject 029 wait-line 800 at 01:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:48:00
+106 arrive 018 reject 038 wait-line 800 at 01:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:49:00
+107 arrive 018 reject 044 wait-line 800 at 01:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:50:00
+108 arrive 018 reject 052 wait-line 800 at 01:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:51:00
+109 arrive 018 reject 056 wait-line 800 at 01:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:52:00
+110 arrive 018 reject 067 wait-line 800 at 01:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:53:00
+111 arrive 018 reject 071 wait-line 800 at 01:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:54:00
+112 arrive 018 reject 077 wait-line 800 at 01:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:55:00
+113 arrive 018 reject 080 wait-line 800 at 01:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:56:00
+114 arrive 018 reject 083 wait-line 800 at 01:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:57:00
+115 arrive 018 reject 087 wait-line 800 at 01:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:58:00
+116 arrive 018 reject 095 wait-line 800 at 01:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 01:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 01:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 01:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 01:59:00
+117 arrive 018 reject 101 wait-line 800 at 01:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:00:00
+118 arrive 018 reject 103 wait-line 800 at 01:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:01:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:01:00
+119 arrive 018 reject 117 wait-line 800 at 01:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:02:00
+120 arrive 018 reject 118 wait-line 800 at 02:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:03:00
+121 arrive 018 reject 119 wait-line 800 at 02:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:04:00
+122 arrive 018 reject 126 wait-line 800 at 02:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:05:00
+123 arrive 018 reject 136 wait-line 800 at 02:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:06:00
+124 arrive 018 reject 154 wait-line 800 at 02:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:07:00
+125 arrive 018 reject 169 wait-line 800 at 02:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:08:00
+126 arrive 018 reject 178 wait-line 800 at 02:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:09:00
+127 arrive 018 reject 183 wait-line 800 at 02:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:10:00
+128 arrive 018 reject 193 wait-line 800 at 02:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:11:00
+129 arrive 018 reject 198 wait-line 800 at 02:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:12:00
+130 arrive 018 reject 202 wait-line 800 at 02:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:13:00
+131 arrive 018 reject 205 wait-line 800 at 02:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:14:00
+132 arrive 018 reject 213 wait-line 800 at 02:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:15:00
+133 arrive 018 reject 216 wait-line 800 at 02:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:16:00
+134 arrive 018 reject 218 wait-line 800 at 02:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:17:00
+135 arrive 018 reject 228 wait-line 800 at 02:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:18:00
+136 arrive 009 reject 238 wait-line 800 at 02:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:19:00
+137 arrive 018 reject 249 wait-line 800 at 02:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:20:00
+138 arrive 018 reject 251 wait-line 800 at 02:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:21:00
+139 arrive 018 reject 261 wait-line 800 at 02:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:22:00
+140 arrive 018 reject 261 wait-line 800 at 02:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:23:00
+141 arrive 018 reject 276 wait-line 800 at 02:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:24:00
+142 arrive 017 reject 276 wait-line 799 at 02:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:25:00
+143 arrive 019 reject 282 wait-line 800 at 02:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:26:00
+144 arrive 018 reject 284 wait-line 800 at 02:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:27:00
+145 arrive 018 reject 287 wait-line 800 at 02:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:28:00
+146 arrive 018 reject 298 wait-line 800 at 02:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:29:00
+147 arrive 018 reject 308 wait-line 800 at 02:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:30:00
+148 arrive 018 reject 317 wait-line 800 at 02:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:31:00
+149 arrive 018 reject 334 wait-line 800 at 02:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:32:00
+150 arrive 018 reject 343 wait-line 800 at 02:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:33:00
+151 arrive 018 reject 353 wait-line 800 at 02:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:34:00
+152 arrive 018 reject 354 wait-line 800 at 02:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:35:00
+153 arrive 018 reject 356 wait-line 800 at 02:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:36:00
+154 arrive 018 reject 363 wait-line 800 at 02:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:37:00
+155 arrive 018 reject 363 wait-line 800 at 02:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:38:00
+156 arrive 018 reject 363 wait-line 800 at 02:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:39:00
+157 arrive 018 reject 366 wait-line 800 at 02:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:40:00
+158 arrive 018 reject 372 wait-line 800 at 02:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:41:00
+159 arrive 018 reject 384 wait-line 800 at 02:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:42:00
+160 arrive 018 reject 392 wait-line 800 at 02:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:43:00
+161 arrive 018 reject 402 wait-line 800 at 02:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:44:00
+162 arrive 017 reject 402 wait-line 799 at 02:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:45:00
+163 arrive 019 reject 403 wait-line 800 at 02:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:46:00
+164 arrive 018 reject 435 wait-line 800 at 02:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:47:00
+165 arrive 018 reject 438 wait-line 800 at 02:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:48:00
+166 arrive 018 reject 451 wait-line 800 at 02:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:49:00
+167 arrive 018 reject 452 wait-line 800 at 02:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:50:00
+168 arrive 018 reject 474 wait-line 800 at 02:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:51:00
+169 arrive 017 reject 474 wait-line 799 at 02:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:52:00
+170 arrive 019 reject 486 wait-line 800 at 02:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:53:00
+171 arrive 018 reject 486 wait-line 800 at 02:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:54:00
+172 arrive 013 reject 486 wait-line 795 at 02:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:55:00
+173 arrive 023 reject 495 wait-line 800 at 02:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:56:00
+174 arrive 018 reject 503 wait-line 800 at 02:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:57:00
+175 arrive 018 reject 505 wait-line 800 at 02:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:58:00
+176 arrive 018 reject 507 wait-line 800 at 02:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 02:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 02:59:00
+177 arrive 018 reject 512 wait-line 800 at 02:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 02:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 02:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:00:00
+178 arrive 018 reject 526 wait-line 800 at 02:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:01:00
+179 arrive 018 reject 538 wait-line 800 at 02:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:01:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:02:00
+180 arrive 018 reject 562 wait-line 800 at 03:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:03:00
+181 arrive 018 reject 590 wait-line 800 at 03:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:04:00
+182 arrive 018 reject 618 wait-line 800 at 03:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:05:00
+183 arrive 018 reject 644 wait-line 800 at 03:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:06:00
+184 arrive 018 reject 674 wait-line 800 at 03:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:07:00
+185 arrive 018 reject 693 wait-line 800 at 03:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:08:00
+186 arrive 018 reject 720 wait-line 800 at 03:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:09:00
+187 arrive 018 reject 752 wait-line 800 at 03:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:10:00
+188 arrive 018 reject 775 wait-line 800 at 03:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:11:00
+189 arrive 018 reject 819 wait-line 800 at 03:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:12:00
+190 arrive 018 reject 847 wait-line 800 at 03:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:13:00
+191 arrive 018 reject 882 wait-line 800 at 03:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:14:00
+192 arrive 018 reject 913 wait-line 800 at 03:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:15:00
+193 arrive 018 reject 942 wait-line 800 at 03:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:16:00
+194 arrive 018 reject 957 wait-line 800 at 03:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:17:00
+195 arrive 018 reject 988 wait-line 800 at 03:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:18:00
+196 arrive 018 reject 1021 wait-line 800 at 03:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:19:00
+197 arrive 018 reject 1058 wait-line 800 at 03:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:20:00
+198 arrive 018 reject 1093 wait-line 800 at 03:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:21:00
+199 arrive 018 reject 1126 wait-line 800 at 03:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:22:00
+200 arrive 018 reject 1167 wait-line 800 at 03:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:23:00
+201 arrive 018 reject 1198 wait-line 800 at 03:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:24:00
+202 arrive 018 reject 1234 wait-line 800 at 03:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:25:00
+203 arrive 018 reject 1276 wait-line 800 at 03:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:26:00
+204 arrive 018 reject 1306 wait-line 800 at 03:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:27:00
+205 arrive 018 reject 1333 wait-line 800 at 03:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:28:00
+206 arrive 018 reject 1353 wait-line 800 at 03:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:29:00
+207 arrive 018 reject 1386 wait-line 800 at 03:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:30:00
+208 arrive 018 reject 1421 wait-line 800 at 03:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:31:00
+209 arrive 018 reject 1439 wait-line 800 at 03:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:32:00
+210 arrive 018 reject 1468 wait-line 800 at 03:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:33:00
+211 arrive 027 reject 1481 wait-line 800 at 03:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:34:00
+212 arrive 018 reject 1510 wait-line 800 at 03:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:35:00
+213 arrive 018 reject 1532 wait-line 800 at 03:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:36:00
+214 arrive 018 reject 1562 wait-line 800 at 03:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:37:00
+215 arrive 018 reject 1586 wait-line 800 at 03:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:38:00
+216 arrive 018 reject 1610 wait-line 800 at 03:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:39:00
+217 arrive 018 reject 1632 wait-line 800 at 03:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:40:00
+218 arrive 009 reject 1658 wait-line 791 at 03:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:41:00
+219 arrive 027 reject 1678 wait-line 800 at 03:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:42:00
+220 arrive 018 reject 1700 wait-line 800 at 03:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:43:00
+221 arrive 018 reject 1729 wait-line 800 at 03:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:44:00
+222 arrive 018 reject 1756 wait-line 800 at 03:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:45:00
+223 arrive 018 reject 1796 wait-line 800 at 03:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:46:00
+224 arrive 018 reject 1819 wait-line 800 at 03:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:47:00
+225 arrive 018 reject 1847 wait-line 800 at 03:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:48:00
+226 arrive 018 reject 1878 wait-line 800 at 03:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:49:00
+227 arrive 018 reject 1897 wait-line 800 at 03:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:50:00
+228 arrive 018 reject 1923 wait-line 800 at 03:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:51:00
+229 arrive 018 reject 1951 wait-line 800 at 03:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:52:00
+230 arrive 018 reject 1989 wait-line 800 at 03:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:53:00
+231 arrive 018 reject 2015 wait-line 800 at 03:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:54:00
+232 arrive 018 reject 2039 wait-line 800 at 03:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:55:00
+233 arrive 018 reject 2073 wait-line 800 at 03:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:56:00
+234 arrive 018 reject 2099 wait-line 800 at 03:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:57:00
+235 arrive 018 reject 2109 wait-line 800 at 03:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:58:00
+236 arrive 018 reject 2133 wait-line 800 at 03:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 03:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 03:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 03:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 03:59:00
+237 arrive 018 reject 2162 wait-line 800 at 03:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:00:00
+238 arrive 009 reject 2204 wait-line 800 at 03:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:01:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:01:00
+239 arrive 009 reject 2235 wait-line 782 at 03:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:02:00
+240 arrive 036 reject 2247 wait-line 800 at 04:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:03:00
+241 arrive 018 reject 2274 wait-line 800 at 04:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:04:00
+242 arrive 018 reject 2301 wait-line 800 at 04:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:05:00
+244 arrive 018 reject 2373 wait-line 800 at 04:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:06:00
+245 arrive 018 reject 2394 wait-line 800 at 04:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:07:00
+246 arrive 018 reject 2423 wait-line 800 at 04:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:08:00
+247 arrive 018 reject 2439 wait-line 800 at 04:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:09:00
+248 arrive 018 reject 2464 wait-line 800 at 04:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:10:00
+249 arrive 018 reject 2494 wait-line 800 at 04:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:11:00
+250 arrive 018 reject 2524 wait-line 800 at 04:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:12:00
+251 arrive 018 reject 2553 wait-line 800 at 04:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:13:00
+252 arrive 018 reject 2577 wait-line 800 at 04:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:14:00
+253 arrive 018 reject 2598 wait-line 800 at 04:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:15:00
+254 arrive 018 reject 2627 wait-line 800 at 04:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:16:00
+255 arrive 018 reject 2656 wait-line 800 at 04:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:17:00
+256 arrive 018 reject 2687 wait-line 800 at 04:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:18:00
+257 arrive 018 reject 2711 wait-line 800 at 04:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:19:00
+258 arrive 018 reject 2742 wait-line 800 at 04:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:20:00
+259 arrive 018 reject 2763 wait-line 800 at 04:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:21:00
+260 arrive 018 reject 2800 wait-line 800 at 04:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:22:00
+261 arrive 018 reject 2830 wait-line 800 at 04:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:23:00
+262 arrive 018 reject 2859 wait-line 800 at 04:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:24:00
+263 arrive 018 reject 2882 wait-line 800 at 04:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:25:00
+264 arrive 018 reject 2909 wait-line 800 at 04:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:26:00
+265 arrive 018 reject 2927 wait-line 800 at 04:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:27:00
+266 arrive 018 reject 2950 wait-line 800 at 04:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:28:00
+267 arrive 018 reject 2985 wait-line 800 at 04:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:29:00
+268 arrive 018 reject 3015 wait-line 800 at 04:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:30:00
+269 arrive 018 reject 3033 wait-line 800 at 04:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:31:00
+270 arrive 018 reject 3052 wait-line 800 at 04:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:32:00
+271 arrive 018 reject 3076 wait-line 800 at 04:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:33:00
+272 arrive 018 reject 3104 wait-line 800 at 04:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:34:00
+273 arrive 018 reject 3132 wait-line 800 at 04:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:35:00
+274 arrive 018 reject 3162 wait-line 800 at 04:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:36:00
+275 arrive 018 reject 3185 wait-line 800 at 04:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:37:00
+276 arrive 018 reject 3217 wait-line 800 at 04:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:38:00
+277 arrive 018 reject 3240 wait-line 800 at 04:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:39:00
+278 arrive 018 reject 3264 wait-line 800 at 04:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:40:00
+279 arrive 018 reject 3285 wait-line 800 at 04:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:41:00
+280 arrive 018 reject 3327 wait-line 800 at 04:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:42:00
+281 arrive 018 reject 3337 wait-line 800 at 04:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:43:00
+282 arrive 018 reject 3370 wait-line 800 at 04:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:44:00
+283 arrive 018 reject 3394 wait-line 800 at 04:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:45:00
+284 arrive 018 reject 3415 wait-line 800 at 04:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:47:00
+285 arrive 036 reject 3423 wait-line 800 at 04:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:48:00
+286 arrive 018 reject 3462 wait-line 800 at 04:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:49:00
+287 arrive 018 reject 3499 wait-line 800 at 04:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:50:00
+288 arrive 018 reject 3531 wait-line 800 at 04:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:51:00
+289 arrive 018 reject 3561 wait-line 800 at 04:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:52:00
+290 arrive 018 reject 3580 wait-line 800 at 04:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:53:00
+291 arrive 018 reject 3610 wait-line 800 at 04:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:54:00
+292 arrive 018 reject 3635 wait-line 800 at 04:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:55:00
+293 arrive 018 reject 3667 wait-line 800 at 04:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:56:00
+294 arrive 018 reject 3705 wait-line 800 at 04:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:57:00
+295 arrive 018 reject 3741 wait-line 800 at 04:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:58:00
+296 arrive 018 reject 3775 wait-line 800 at 04:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 04:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 04:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 04:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 04:59:00
+297 arrive 018 reject 3796 wait-line 800 at 04:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:00:00
+298 arrive 018 reject 3828 wait-line 800 at 04:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:01:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:01:00
+299 arrive 018 reject 3856 wait-line 800 at 04:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:03:00
+301 arrive 036 reject 3915 wait-line 800 at 05:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:04:00
+302 arrive 018 reject 3951 wait-line 800 at 05:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:05:00
+303 arrive 018 reject 3986 wait-line 800 at 05:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:06:00
+304 arrive 018 reject 4013 wait-line 800 at 05:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:07:00
+305 arrive 018 reject 4041 wait-line 800 at 05:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:08:00
+306 arrive 018 reject 4061 wait-line 800 at 05:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:09:00
+307 arrive 018 reject 4084 wait-line 800 at 05:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:10:00
+308 arrive 018 reject 4118 wait-line 800 at 05:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:11:00
+309 arrive 018 reject 4145 wait-line 800 at 05:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:12:00
+310 arrive 018 reject 4171 wait-line 800 at 05:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:13:00
+311 arrive 018 reject 4205 wait-line 800 at 05:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:14:00
+312 arrive 018 reject 4232 wait-line 800 at 05:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:15:00
+313 arrive 018 reject 4255 wait-line 800 at 05:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:16:00
+314 arrive 018 reject 4276 wait-line 800 at 05:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:17:00
+315 arrive 018 reject 4306 wait-line 800 at 05:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:18:00
+316 arrive 018 reject 4337 wait-line 800 at 05:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:19:00
+317 arrive 018 reject 4357 wait-line 800 at 05:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:20:00
+318 arrive 018 reject 4386 wait-line 800 at 05:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:21:00
+319 arrive 018 reject 4413 wait-line 800 at 05:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:22:00
+320 arrive 018 reject 4447 wait-line 800 at 05:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:23:00
+321 arrive 018 reject 4478 wait-line 800 at 05:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:24:00
+322 arrive 018 reject 4499 wait-line 800 at 05:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:25:00
+323 arrive 018 reject 4521 wait-line 800 at 05:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:26:00
+324 arrive 018 reject 4548 wait-line 800 at 05:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:27:00
+325 arrive 018 reject 4567 wait-line 800 at 05:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:28:00
+326 arrive 018 reject 4587 wait-line 800 at 05:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:29:00
+327 arrive 009 reject 4620 wait-line 791 at 05:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:30:00
+328 arrive 027 reject 4635 wait-line 800 at 05:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:31:00
+329 arrive 018 reject 4672 wait-line 800 at 05:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:32:00
+330 arrive 018 reject 4708 wait-line 800 at 05:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:33:00
+331 arrive 018 reject 4737 wait-line 800 at 05:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:34:00
+332 arrive 018 reject 4771 wait-line 800 at 05:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:35:00
+333 arrive 018 reject 4804 wait-line 800 at 05:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:36:00
+334 arrive 018 reject 4831 wait-line 800 at 05:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:37:00
+335 arrive 018 reject 4855 wait-line 800 at 05:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:38:00
+336 arrive 018 reject 4880 wait-line 800 at 05:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:39:00
+337 arrive 018 reject 4910 wait-line 800 at 05:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:40:00
+338 arrive 018 reject 4939 wait-line 800 at 05:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:41:00
+339 arrive 018 reject 4962 wait-line 800 at 05:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:42:00
+340 arrive 018 reject 4982 wait-line 800 at 05:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:43:00
+341 arrive 018 reject 4999 wait-line 800 at 05:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:44:00
+342 arrive 018 reject 5018 wait-line 800 at 05:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:45:00
+343 arrive 018 reject 5047 wait-line 800 at 05:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:46:00
+344 arrive 018 reject 5072 wait-line 800 at 05:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:47:00
+345 arrive 018 reject 5095 wait-line 800 at 05:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:48:00
+346 arrive 018 reject 5119 wait-line 800 at 05:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:49:00
+347 arrive 018 reject 5137 wait-line 800 at 05:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:50:00
+348 arrive 018 reject 5163 wait-line 800 at 05:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:51:00
+349 arrive 018 reject 5200 wait-line 800 at 05:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:52:00
+350 arrive 018 reject 5228 wait-line 800 at 05:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:53:00
+351 arrive 018 reject 5251 wait-line 800 at 05:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:54:00
+352 arrive 018 reject 5281 wait-line 800 at 05:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:55:00
+353 arrive 018 reject 5313 wait-line 800 at 05:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:56:00
+354 arrive 018 reject 5340 wait-line 800 at 05:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:57:00
+355 arrive 018 reject 5360 wait-line 800 at 05:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:58:00
+356 arrive 018 reject 5395 wait-line 800 at 05:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 05:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 05:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 05:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 05:59:00
+357 arrive 018 reject 5424 wait-line 800 at 05:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:00:00
+358 arrive 018 reject 5451 wait-line 800 at 05:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:01:00
+359 arrive 027 reject 5463 wait-line 800 at 05:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:02:00
+360 arrive 018 reject 5491 wait-line 800 at 06:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:03:00
+361 arrive 018 reject 5517 wait-line 800 at 06:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:04:00
+362 arrive 018 reject 5550 wait-line 800 at 06:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:05:00
+363 arrive 018 reject 5575 wait-line 800 at 06:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:06:00
+364 arrive 018 reject 5597 wait-line 800 at 06:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:07:00
+365 arrive 018 reject 5621 wait-line 800 at 06:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:08:00
+366 arrive 018 reject 5652 wait-line 800 at 06:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:09:00
+367 arrive 018 reject 5681 wait-line 800 at 06:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:10:00
+368 arrive 018 reject 5723 wait-line 800 at 06:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:11:00
+369 arrive 018 reject 5747 wait-line 800 at 06:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:12:00
+370 arrive 018 reject 5783 wait-line 800 at 06:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:13:00
+371 arrive 018 reject 5803 wait-line 800 at 06:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:14:00
+372 arrive 018 reject 5828 wait-line 800 at 06:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:15:00
+373 arrive 018 reject 5839 wait-line 800 at 06:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:16:00
+374 arrive 018 reject 5871 wait-line 800 at 06:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:17:00
+375 arrive 018 reject 5903 wait-line 800 at 06:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:18:00
+376 arrive 018 reject 5926 wait-line 800 at 06:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:19:00
+377 arrive 018 reject 5945 wait-line 800 at 06:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:20:00
+378 arrive 018 reject 5979 wait-line 800 at 06:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:21:00
+379 arrive 018 reject 6010 wait-line 800 at 06:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:22:00
+380 arrive 018 reject 6026 wait-line 800 at 06:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:23:00
+381 arrive 009 reject 6061 wait-line 791 at 06:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:24:00
+382 arrive 027 reject 6094 wait-line 800 at 06:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:25:00
+383 arrive 018 reject 6125 wait-line 800 at 06:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:26:00
+384 arrive 018 reject 6147 wait-line 800 at 06:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:27:00
+385 arrive 018 reject 6173 wait-line 800 at 06:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:28:00
+386 arrive 018 reject 6207 wait-line 800 at 06:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:29:00
+387 arrive 018 reject 6225 wait-line 800 at 06:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:30:00
+388 arrive 018 reject 6244 wait-line 800 at 06:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:31:00
+389 arrive 018 reject 6269 wait-line 800 at 06:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:32:00
+390 arrive 018 reject 6292 wait-line 800 at 06:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:33:00
+391 arrive 018 reject 6322 wait-line 800 at 06:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:34:00
+392 arrive 018 reject 6355 wait-line 800 at 06:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:35:00
+393 arrive 018 reject 6375 wait-line 800 at 06:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:36:00
+394 arrive 018 reject 6391 wait-line 800 at 06:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:37:00
+395 arrive 018 reject 6407 wait-line 800 at 06:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:38:00
+396 arrive 018 reject 6433 wait-line 800 at 06:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:39:00
+397 arrive 018 reject 6465 wait-line 800 at 06:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:40:00
+398 arrive 018 reject 6495 wait-line 800 at 06:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:41:00
+399 arrive 018 reject 6521 wait-line 800 at 06:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:42:00
+400 arrive 018 reject 6540 wait-line 800 at 06:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:43:00
+401 arrive 018 reject 6568 wait-line 800 at 06:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:44:00
+402 arrive 018 reject 6596 wait-line 800 at 06:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:45:00
+403 arrive 018 reject 6623 wait-line 800 at 06:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:46:00
+404 arrive 018 reject 6651 wait-line 800 at 06:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:47:00
+405 arrive 018 reject 6675 wait-line 800 at 06:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:48:00
+406 arrive 018 reject 6698 wait-line 800 at 06:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:49:00
+407 arrive 018 reject 6733 wait-line 800 at 06:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:50:00
+408 arrive 018 reject 6759 wait-line 800 at 06:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:51:00
+409 arrive 018 reject 6780 wait-line 800 at 06:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:52:00
+410 arrive 018 reject 6809 wait-line 800 at 06:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:53:00
+411 arrive 018 reject 6836 wait-line 800 at 06:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:54:00
+412 arrive 018 reject 6865 wait-line 800 at 06:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:55:00
+413 arrive 018 reject 6893 wait-line 800 at 06:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:56:00
+414 arrive 018 reject 6915 wait-line 800 at 06:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:57:00
+415 arrive 018 reject 6948 wait-line 800 at 06:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 06:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 06:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:58:00
+416 arrive 018 reject 6965 wait-line 800 at 06:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 06:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 06:59:00
+417 arrive 018 reject 6983 wait-line 800 at 06:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:01:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:00:00
+418 arrive 018 reject 7020 wait-line 800 at 06:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:01:00
+419 arrive 018 reject 7041 wait-line 800 at 06:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:02:00
+420 arrive 018 reject 7058 wait-line 800 at 07:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:03:00
+421 arrive 018 reject 7070 wait-line 800 at 07:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:04:00
+422 arrive 018 reject 7093 wait-line 800 at 07:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:05:00
+423 arrive 018 reject 7107 wait-line 800 at 07:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:06:00
+424 arrive 018 reject 7122 wait-line 800 at 07:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:07:00
+425 arrive 018 reject 7146 wait-line 800 at 07:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:08:00
+426 arrive 018 reject 7160 wait-line 800 at 07:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:09:00
+427 arrive 018 reject 7182 wait-line 800 at 07:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:10:00
+428 arrive 018 reject 7201 wait-line 800 at 07:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:11:00
+429 arrive 018 reject 7208 wait-line 800 at 07:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:12:00
+430 arrive 018 reject 7221 wait-line 800 at 07:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:13:00
+431 arrive 018 reject 7242 wait-line 800 at 07:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:14:00
+432 arrive 018 reject 7261 wait-line 800 at 07:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:15:00
+433 arrive 009 reject 7293 wait-line 791 at 07:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:16:00
+434 arrive 027 reject 7298 wait-line 800 at 07:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:17:00
+435 arrive 018 reject 7310 wait-line 800 at 07:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:19:00
+437 arrive 036 reject 7341 wait-line 800 at 07:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:20:00
+438 arrive 018 reject 7351 wait-line 800 at 07:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:21:00
+439 arrive 018 reject 7371 wait-line 800 at 07:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:22:00
+440 arrive 018 reject 7393 wait-line 800 at 07:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:23:00
+441 arrive 018 reject 7413 wait-line 800 at 07:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:24:00
+442 arrive 018 reject 7425 wait-line 800 at 07:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:25:00
+443 arrive 018 reject 7440 wait-line 800 at 07:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:26:00
+444 arrive 018 reject 7454 wait-line 800 at 07:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:27:00
+445 arrive 018 reject 7470 wait-line 800 at 07:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:28:00
+446 arrive 018 reject 7483 wait-line 800 at 07:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:29:00
+447 arrive 018 reject 7498 wait-line 800 at 07:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:30:00
+448 arrive 018 reject 7515 wait-line 800 at 07:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:31:00
+449 arrive 018 reject 7526 wait-line 800 at 07:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:32:00
+450 arrive 018 reject 7544 wait-line 800 at 07:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:33:00
+451 arrive 018 reject 7549 wait-line 800 at 07:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:34:00
+452 arrive 018 reject 7564 wait-line 800 at 07:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:35:00
+453 arrive 018 reject 7579 wait-line 800 at 07:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:36:00
+454 arrive 018 reject 7593 wait-line 800 at 07:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:37:00
+455 arrive 018 reject 7614 wait-line 800 at 07:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:38:00
+456 arrive 018 reject 7627 wait-line 800 at 07:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:39:00
+457 arrive 018 reject 7646 wait-line 800 at 07:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:40:00
+458 arrive 018 reject 7664 wait-line 800 at 07:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:41:00
+459 arrive 018 reject 7689 wait-line 800 at 07:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:42:00
+460 arrive 018 reject 7709 wait-line 800 at 07:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:43:00
+461 arrive 018 reject 7731 wait-line 800 at 07:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:44:00
+462 arrive 018 reject 7751 wait-line 800 at 07:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:45:00
+463 arrive 009 reject 7774 wait-line 791 at 07:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:46:00
+464 arrive 027 reject 7784 wait-line 800 at 07:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:47:00
+465 arrive 018 reject 7787 wait-line 800 at 07:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:48:00
+466 arrive 018 reject 7804 wait-line 800 at 07:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:49:00
+467 arrive 018 reject 7827 wait-line 800 at 07:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:50:00
+468 arrive 018 reject 7846 wait-line 800 at 07:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:51:00
+469 arrive 018 reject 7865 wait-line 800 at 07:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:52:00
+470 arrive 018 reject 7882 wait-line 800 at 07:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:53:00
+471 arrive 018 reject 7897 wait-line 800 at 07:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:54:00
+472 arrive 018 reject 7912 wait-line 800 at 07:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:55:00
+473 arrive 018 reject 7932 wait-line 800 at 07:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:56:00
+474 arrive 018 reject 7954 wait-line 800 at 07:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:57:00
+475 arrive 018 reject 7974 wait-line 800 at 07:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 07:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 07:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:58:00
+476 arrive 018 reject 7985 wait-line 800 at 07:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 07:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 07:59:00
+477 arrive 018 reject 7992 wait-line 800 at 07:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:01:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:00:00
+478 arrive 018 reject 8000 wait-line 800 at 07:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:01:00
+479 arrive 018 reject 8020 wait-line 800 at 07:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:02:00
+480 arrive 018 reject 8032 wait-line 800 at 08:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:03:00
+481 arrive 018 reject 8051 wait-line 800 at 08:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:04:00
+482 arrive 018 reject 8071 wait-line 800 at 08:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:05:00
+483 arrive 018 reject 8089 wait-line 800 at 08:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:06:00
+484 arrive 018 reject 8089 wait-line 800 at 08:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:07:00
+485 arrive 018 reject 8092 wait-line 800 at 08:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:08:00
+486 arrive 018 reject 8106 wait-line 800 at 08:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:09:00
+487 arrive 018 reject 8119 wait-line 800 at 08:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:10:00
+488 arrive 018 reject 8138 wait-line 800 at 08:08:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:12:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:11:00
+489 arrive 018 reject 8161 wait-line 800 at 08:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:12:00
+490 arrive 018 reject 8173 wait-line 800 at 08:10:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:13:00
+491 arrive 018 reject 8187 wait-line 800 at 08:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:14:00
+492 arrive 018 reject 8206 wait-line 800 at 08:12:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:15:00
+493 arrive 018 reject 8230 wait-line 800 at 08:13:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:16:00
+494 arrive 018 reject 8249 wait-line 800 at 08:14:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:17:00
+495 arrive 018 reject 8263 wait-line 800 at 08:15:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:18:00
+496 arrive 018 reject 8287 wait-line 800 at 08:16:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:19:00
+497 arrive 018 reject 8299 wait-line 800 at 08:17:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:20:00
+498 arrive 018 reject 8310 wait-line 800 at 08:18:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:21:00
+499 arrive 018 reject 8327 wait-line 800 at 08:19:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:22:00
+500 arrive 018 reject 8350 wait-line 800 at 08:20:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:23:00
+501 arrive 018 reject 8370 wait-line 800 at 08:21:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:24:00
+502 arrive 018 reject 8395 wait-line 800 at 08:22:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:25:00
+503 arrive 018 reject 8407 wait-line 800 at 08:23:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:26:00
+504 arrive 018 reject 8422 wait-line 800 at 08:24:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:27:00
+505 arrive 018 reject 8442 wait-line 800 at 08:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:30:00
+506 arrive 009 reject 8475 wait-line 791 at 08:26:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:31:00
+507 arrive 027 reject 8484 wait-line 800 at 08:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:32:00
+508 arrive 018 reject 8505 wait-line 800 at 08:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:33:00
+509 arrive 018 reject 8531 wait-line 800 at 08:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:34:00
+510 arrive 018 reject 8544 wait-line 800 at 08:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:35:00
+511 arrive 018 reject 8570 wait-line 800 at 08:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:36:00
+512 arrive 018 reject 8588 wait-line 800 at 08:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:37:00
+513 arrive 018 reject 8614 wait-line 800 at 08:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:36:00
+514 arrive 018 reject 8631 wait-line 791 at 08:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:37:00
+515 arrive 027 reject 8640 wait-line 800 at 08:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:38:00
+516 arrive 018 reject 8666 wait-line 800 at 08:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:39:00
+517 arrive 009 reject 8697 wait-line 791 at 08:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:40:00
+518 arrive 027 reject 8710 wait-line 800 at 08:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:41:00
+519 arrive 018 reject 8728 wait-line 800 at 08:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:42:00
+520 arrive 018 reject 8747 wait-line 800 at 08:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:43:00
+521 arrive 018 reject 8780 wait-line 800 at 08:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:44:00
+522 arrive 018 reject 8806 wait-line 800 at 08:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:45:00
+523 arrive 018 reject 8820 wait-line 800 at 08:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:46:00
+524 arrive 018 reject 8844 wait-line 800 at 08:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:47:00
+525 arrive 018 reject 8862 wait-line 800 at 08:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:48:00
+526 arrive 018 reject 8881 wait-line 800 at 08:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:49:00
+527 arrive 018 reject 8902 wait-line 800 at 08:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:50:00
+528 arrive 018 reject 8923 wait-line 800 at 08:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:51:00
+529 arrive 018 reject 8945 wait-line 800 at 08:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:52:00
+530 arrive 018 reject 8958 wait-line 800 at 08:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:53:00
+531 arrive 018 reject 8976 wait-line 800 at 08:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:54:00
+532 arrive 018 reject 8992 wait-line 800 at 08:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:55:00
+533 arrive 018 reject 9003 wait-line 800 at 08:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:56:00
+534 arrive 018 reject 9025 wait-line 800 at 08:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 08:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 08:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:57:00
+535 arrive 018 reject 9049 wait-line 800 at 08:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:00:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:00:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:58:00
+536 arrive 018 reject 9073 wait-line 800 at 08:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:01:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:01:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 08:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 08:59:00
+537 arrive 018 reject 9092 wait-line 800 at 08:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:02:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:02:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:00:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:00:00
+538 arrive 018 reject 9108 wait-line 800 at 08:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:03:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:03:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:01:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:01:00
+539 arrive 018 reject 9127 wait-line 800 at 08:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:04:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:04:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:02:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:02:00
+540 arrive 018 reject 9135 wait-line 800 at 09:00:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:05:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:05:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:03:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:03:00
+541 arrive 018 reject 9144 wait-line 800 at 09:01:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:06:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:06:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:04:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:04:00
+542 arrive 018 reject 9151 wait-line 800 at 09:02:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:07:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:07:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:05:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:05:00
+543 arrive 018 reject 9153 wait-line 800 at 09:03:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:08:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:06:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:06:00
+544 arrive 018 reject 9161 wait-line 800 at 09:04:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:09:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:09:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:07:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:07:00
+545 arrive 016 reject 9161 wait-line 798 at 09:05:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:10:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:10:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:08:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:08:00
+546 arrive 020 reject 9169 wait-line 800 at 09:06:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:11:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:11:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:09:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:09:00
+547 arrive 018 reject 9176 wait-line 800 at 09:07:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:12:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:12:00
+548 arrive 009 reject 9197 wait-line 800 at 09:08:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:10:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:10:00
+549 arrive 009 reject 9213 wait-line 800 at 09:09:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:13:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:13:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:11:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:11:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:14:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:14:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:12:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:12:00
+565 arrive 029 reject 9560 wait-line 793 at 09:25:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:15:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:15:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:13:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:13:00
+566 arrive 025 reject 9561 wait-line 800 at 09:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:16:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:16:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:14:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:14:00
+567 arrive 018 reject 9567 wait-line 800 at 09:27:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:17:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:17:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:15:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:15:00
+568 arrive 018 reject 9574 wait-line 800 at 09:28:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:18:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:18:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:16:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:16:00
+569 arrive 018 reject 9595 wait-line 800 at 09:29:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:19:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:19:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:17:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:17:00
+570 arrive 017 reject 9595 wait-line 799 at 09:30:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:20:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:20:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:18:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:18:00
+571 arrive 018 reject 9595 wait-line 799 at 09:31:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:21:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:21:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:19:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:19:00
+572 arrive 019 reject 9603 wait-line 800 at 09:32:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:22:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:22:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:20:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:20:00
+573 arrive 018 reject 9611 wait-line 800 at 09:33:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:23:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:23:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:21:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:21:00
+574 arrive 018 reject 9614 wait-line 800 at 09:34:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:24:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:24:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:22:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:22:00
+575 arrive 018 reject 9617 wait-line 800 at 09:35:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:25:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:25:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:23:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:23:00
+576 arrive 018 reject 9626 wait-line 800 at 09:36:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:26:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:26:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:27:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:27:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:24:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:24:00
+577 arrive 009 reject 9649 wait-line 782 at 09:37:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:28:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:28:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:25:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:25:00
+578 arrive 028 reject 9649 wait-line 792 at 09:38:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:29:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:29:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:26:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:26:00
+579 arrive 024 reject 9649 wait-line 798 at 09:39:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:30:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:30:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:27:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:27:00
+580 arrive 020 reject 9653 wait-line 800 at 09:40:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:31:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:31:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:28:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:28:00
+581 arrive 018 reject 9665 wait-line 800 at 09:41:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:32:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:32:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:29:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:29:00
+582 arrive 018 reject 9681 wait-line 800 at 09:42:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:33:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:33:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:30:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:30:00
+583 arrive 018 reject 9696 wait-line 800 at 09:43:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:34:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:34:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:31:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:31:00
+584 arrive 018 reject 9709 wait-line 800 at 09:44:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:35:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:35:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:32:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:32:00
+585 arrive 018 reject 9720 wait-line 800 at 09:45:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:36:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:36:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:33:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:33:00
+586 arrive 009 reject 9734 wait-line 791 at 09:46:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:37:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:37:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:34:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:34:00
+587 arrive 025 reject 9734 wait-line 798 at 09:47:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:38:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:38:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:35:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:35:00
+588 arrive 020 reject 9735 wait-line 800 at 09:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:39:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:39:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:36:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:36:00
+589 arrive 018 reject 9742 wait-line 800 at 09:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:40:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:40:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:37:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:37:00
+590 arrive 018 reject 9757 wait-line 800 at 09:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:41:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:41:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:38:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:38:00
+591 arrive 018 reject 9763 wait-line 800 at 09:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:42:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:42:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:39:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:39:00
+592 arrive 018 reject 9776 wait-line 800 at 09:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:43:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:43:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:40:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:40:00
+593 arrive 018 reject 9793 wait-line 800 at 09:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:44:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:44:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:41:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:41:00
+594 arrive 018 reject 9795 wait-line 800 at 09:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:45:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:45:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:42:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:42:00
+595 arrive 018 reject 9801 wait-line 800 at 09:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:46:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:46:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:43:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:43:00
+596 arrive 018 reject 9812 wait-line 800 at 09:56:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:47:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:47:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:44:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:44:00
+597 arrive 018 reject 9823 wait-line 800 at 09:57:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:48:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:48:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:45:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:45:00
+598 arrive 018 reject 9837 wait-line 800 at 09:58:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:49:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:49:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:46:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:46:00
+599 arrive 018 reject 9841 wait-line 800 at 09:59:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:50:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:50:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:47:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:47:00
+Total People Arrived: 11366
+Total People Riding: 10566
+Total People Rejected: 9841
+Average Waiting Time per Person: 41.51 minutes
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:51:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:51:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:48:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:48:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:52:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:52:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:49:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:49:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:53:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:53:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:50:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:50:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:54:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:54:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:51:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:51:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:55:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:55:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:52:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:52:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:56:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:53:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:53:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:57:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:54:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:54:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:58:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:55:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:55:00
+Explorer 0x7fbe7a1cf640 departs with 9 passengers at 09:59:00
+Explorer 0x7fbe7a1cf640 arrives with 9 passengers at 09:59:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:56:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:56:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:57:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:57:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:58:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:58:00
+Explorer 0x7fbe7a9d0640 departs with 9 passengers at 09:59:00
+Explorer 0x7fbe7a9d0640 arrives with 9 passengers at 09:59:00
